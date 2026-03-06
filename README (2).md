@@ -123,6 +123,4 @@ predicted_sales = final_model.predict(campaign_poly)
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
